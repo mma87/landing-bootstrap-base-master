@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+
+.pull-center {
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+.pull-Vcenter {
+	margin-top: auto !important;
+	margin-bottom: auto !important;
+}
+
+/************************************************
+******* INIZIO CONTENUTO RESPONSIVE *************
+*************************************************
+*** INSERIRE PRIMA LA DIMENSIONE MOBILE *********
+***** E POI LE REGOLE DENTRO @MEDIA *************
+*************************************************/
+
+@media (min-width: 768px) { /*64% di 1200 */
+
+}
+
+
+@media (min-width: 992px) { /*83% di 1200 */
+
+}
+
+@media (min-width: 1200px) {  
+	
+
+}
